@@ -1,4 +1,4 @@
-# MedSimplify 🩺
+## MedSimplify 🩺
 
 MedSimplify is an AI-powered Python application built to translate complex clinical medical reports into simple, patient-friendly language. It targets the divide between clinical jargon and patient understanding by presenting complex radiology, hematology, and discharge reports in plain, easily readable English.
 
