@@ -1,0 +1,13 @@
+LABORATORY REPORT - COMPLETE BLOOD COUNT & METABOLIC PANEL
+PATIENT ID: 4429-B
+DATE OF COLLECTION: 2026-05-14
+
+TEST RESULTS:
+- Erythrocytes: 3.2 x10^12/L (Normal: 4.5-5.9) - Low
+- Leukocytes: 14.8 x10^9/L (Normal: 4.5-11.0) - High (Leukocytosis)
+- Thrombocytes: 110 x10^9/L (Normal: 150-450) - Low (Thrombocytopenia)
+- Glucose (Prandial): 185 mg/dL (Normal: < 140) - High (Hyperglycemia)
+- Sodium: 131 mEq/L (Normal: 135-145) - Low (Hyponatremia)
+
+CLINICAL NOTES:
+The patient's blood work displays moderate leukocytosis, possibly secondary to an active bacterial infection. Furthermore, there is evidence of mild anemia and hyponatremia. Postprandial glucose levels reflect hyperglycemia. Follow-up diagnostic evaluation of renal and hepatic clearance is recommended.
